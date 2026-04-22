@@ -1,7 +1,7 @@
 # 💫 About Me:
-<div>
-  <p align="center">Me?</h2>
-  <img src="https://i.ibb.co.com/MkSpTKG9/68747470733a2f2f692e6b796d2d63646e2e636f6d2f656469746f7269616c732f69636f6e732f6f726967696e616c2f3030.png" align="center">
+<div align="center">
+  <h3>Me?</h3>
+  <img src="https://i.ibb.co.com/MkSpTKG9/68747470733a2f2f692e6b796d2d63646e2e636f6d2f656469746f7269616c732f69636f6e732f6f726967696e616c2f3030.png" />
 </div>
 
 
